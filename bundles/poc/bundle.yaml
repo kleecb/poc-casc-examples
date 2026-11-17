@@ -1,6 +1,6 @@
 # bundle.yaml
 apiVersion: "2"            # use 2 to enable plugin mgmt v2 (backward compatible)
-id: "mastercard-folder-rbac"
+id: "ml-folder-rbac"
 version: "16"               # <— bump this anytime you change the bundle
 description: "Create folder + RBAC and ensure CasC/Items plugins are present"
 jcasc:
